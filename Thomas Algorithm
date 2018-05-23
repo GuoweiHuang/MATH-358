@@ -1,0 +1,2 @@
+A short MATLAB function to solve the linear equation A · x = b, when A is a tridiagonal
+matrix.
